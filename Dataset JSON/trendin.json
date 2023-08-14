@@ -1,0 +1,172 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "trust-wallet-token",
+        "coin_id": 11085,
+        "name": "Trust Wallet",
+        "symbol": "TWT",
+        "market_cap_rank": 101,
+        "thumb": "https://assets.coingecko.com/coins/images/11085/thumb/Trust.png?1588062702",
+        "small": "https://assets.coingecko.com/coins/images/11085/small/Trust.png?1588062702",
+        "large": "https://assets.coingecko.com/coins/images/11085/large/Trust.png?1588062702",
+        "slug": "trust-wallet-token",
+        "price_btc": 0.000030905112710038585,
+        "score": 0
+      }
+    },
+    {
+      "item": {
+        "id": "stargate-finance",
+        "coin_id": 24413,
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "market_cap_rank": 203,
+        "thumb": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
+        "small": "https://assets.coingecko.com/coins/images/24413/small/STG_LOGO.png?1647654518",
+        "large": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1647654518",
+        "slug": "stargate-finance",
+        "price_btc": 0.000024114039001191135,
+        "score": 1
+      }
+    },
+    {
+      "item": {
+        "id": "rollbit-coin",
+        "coin_id": 24552,
+        "name": "Rollbit Coin",
+        "symbol": "RLB",
+        "market_cap_rank": 81,
+        "thumb": "https://assets.coingecko.com/coins/images/24552/thumb/unziL6wO_400x400.jpg?1648134494",
+        "small": "https://assets.coingecko.com/coins/images/24552/small/unziL6wO_400x400.jpg?1648134494",
+        "large": "https://assets.coingecko.com/coins/images/24552/large/unziL6wO_400x400.jpg?1648134494",
+        "slug": "rollbit-coin",
+        "price_btc": 0.000005336114342654037,
+        "score": 2
+      }
+    },
+    {
+      "item": {
+        "id": "aptos",
+        "coin_id": 26455,
+        "name": "Aptos",
+        "symbol": "APT",
+        "market_cap_rank": 35,
+        "thumb": "https://assets.coingecko.com/coins/images/26455/thumb/aptos_round.png?1666839629",
+        "small": "https://assets.coingecko.com/coins/images/26455/small/aptos_round.png?1666839629",
+        "large": "https://assets.coingecko.com/coins/images/26455/large/aptos_round.png?1666839629",
+        "slug": "aptos",
+        "price_btc": 0.00025062476404145415,
+        "score": 3
+      }
+    },
+    {
+      "item": {
+        "id": "akash-network",
+        "coin_id": 12785,
+        "name": "Akash Network",
+        "symbol": "AKT",
+        "market_cap_rank": 165,
+        "thumb": "https://assets.coingecko.com/coins/images/12785/thumb/akash-logo.png?1615447676",
+        "small": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676",
+        "large": "https://assets.coingecko.com/coins/images/12785/large/akash-logo.png?1615447676",
+        "slug": "akash-network",
+        "price_btc": 0.00003113204934513949,
+        "score": 4
+      }
+    },
+    {
+      "item": {
+        "id": "unibot",
+        "coin_id": 30462,
+        "name": "Unibot",
+        "symbol": "UNIBOT",
+        "market_cap_rank": 170,
+        "thumb": "https://assets.coingecko.com/coins/images/30462/thumb/logonoline_%281%29.png?1687510315",
+        "small": "https://assets.coingecko.com/coins/images/30462/small/logonoline_%281%29.png?1687510315",
+        "large": "https://assets.coingecko.com/coins/images/30462/large/logonoline_%281%29.png?1687510315",
+        "slug": "unibot",
+        "price_btc": 0.006428467248713309,
+        "score": 5
+      }
+    },
+    {
+      "item": {
+        "id": "optimism",
+        "coin_id": 25244,
+        "name": "Optimism",
+        "symbol": "OP",
+        "market_cap_rank": 42,
+        "thumb": "https://assets.coingecko.com/coins/images/25244/thumb/Optimism.png?1660904599",
+        "small": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png?1660904599",
+        "large": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1660904599",
+        "slug": "optimism",
+        "price_btc": 0.00005266815429485509,
+        "score": 6
+      }
+    },
+    {
+      "item": {
+        "id": "worldcoin-wld",
+        "coin_id": 31069,
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "market_cap_rank": 148,
+        "thumb": "https://assets.coingecko.com/coins/images/31069/thumb/worldcoin.jpeg?1690182386",
+        "small": "https://assets.coingecko.com/coins/images/31069/small/worldcoin.jpeg?1690182386",
+        "large": "https://assets.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1690182386",
+        "slug": "worldcoin",
+        "price_btc": 0.00006196854578356644,
+        "score": 7
+      }
+    }
+  ],
+  "nfts": [
+    {
+      "id": "cryptoadz",
+      "name": "CrypToadz",
+      "symbol": "TOADZ",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/146/thumb/TOADZ.jpg?1631711074",
+      "nft_contract_id": 146,
+      "floor_price_in_native_currency": 0.76,
+      "floor_price_24h_percentage_change": 19.1803760558222
+    },
+    {
+      "id": "cryptophunks",
+      "name": "CryptoPhunks",
+      "symbol": "PHUNK",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/374/thumb/cryptophunks.png?1652324693",
+      "nft_contract_id": 374,
+      "floor_price_in_native_currency": 0.3699,
+      "floor_price_24h_percentage_change": 17.0615120059296
+    },
+    {
+      "id": "cryptodickbutts",
+      "name": "CryptoDickbutts",
+      "symbol": "CDB",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/1265/thumb/cryptodickbutts.gif?1658375895",
+      "nft_contract_id": 1265,
+      "floor_price_in_native_currency": 0.889999,
+      "floor_price_24h_percentage_change": 14.305135504637
+    },
+    {
+      "id": "world-of-women",
+      "name": "World of Women",
+      "symbol": "WOW",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/49/thumb/world-of-women.png?1629559290",
+      "nft_contract_id": 49,
+      "floor_price_in_native_currency": 0.68,
+      "floor_price_24h_percentage_change": 16.6720498027432
+    },
+    {
+      "id": "a-kid-called-beast",
+      "name": "a KID called BEAST",
+      "symbol": "AKCB",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/2627/thumb/a-kid-called-beast.png?1673882949",
+      "nft_contract_id": 2627,
+      "floor_price_in_native_currency": 0.37,
+      "floor_price_24h_percentage_change": 14.9373243290684
+    }
+  ],
+  "exchanges": []
+}
