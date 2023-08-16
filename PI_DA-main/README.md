@@ -50,7 +50,7 @@ Como se nos pidio elegir 10 criptomonedas, elegimos 10 criptomonedas de distinto
 
 como podemos apreciar, elegimos criptomonedas de distintos sectores, como por ejemplo, Bitcoin, Ethereum, Binance Coin, USDT, XRP, MATIC que fueron creadas para ser una moneda de intercambio, y otras PEPE, DOGE que fueron creadas por un simple meme de internet pero el apoyo que han recibido por parte de la comunidad las ha hecho crecer y ser una criptomoneda mas en el mercado. Por ultimo, elegimos Worldcoin y Arkham que son criptomonedas que fueron creadas para ser una moneda de intercambio pero con un fin social, ya que Worldcoin fue creada para crear una moneda que sea accesible para todos aquellos que se verifiquen como humanos reales y por ello funciona como casi una renta universal, y Arkham que fue creada para ayudar a los desarrolladores a poder financiar sus proyectos.
 
-## **Analisis de las criptomonedas-**
+## **Introduccion de criptomonedas-**
 ### **Bitcoin-**
 En este caso tenemos a la primera criptomoneda creada el 2009 de forma anonima por Satoshi Nakamoto, la cual fue creada para ser una moneda de intercambio, pero con el tiempo se ha convertido en una reserva de valor, ya que su precio ha ido aumentando con el tiempo, y en la actualidad es la criptomoneda con mayor capitalizacion de mercado
 
@@ -64,5 +64,12 @@ En la actualidad se han convertido en una revolucion monetaria, ya que cada vez 
 ### **Un activo que no tiene Regulacioones por instituciones nacionales-**
 Las criptomonedas gozan de libertad de mercado, ya que no estan reguladas por ninguna institucion nacional, y por ello, no tienen un precio fijo, y por ello, su precio puede variar de forma muy brusca, es un mercado que puede ser muy rentable, pero tambien puede ser muy riesgoso, ya que puede haber una gran ganancia, pero tambien puede haber una gran perdida
 
-### **Conclusion-**
-En este Readme explicamos brevemente algunos puntos relevantes para entender este proyecto, y por que hicimos los analisis que hicimos, haremos mas analisis en el notebook, y explicaremos mas a fondo cada uno de los puntos que mencionamos dentro de nuestro dashboard
+### **Como vamos a trabajar esos datos-**
+Extraeremos los datos de la API de la pagina coingecko que nos provee archivos de extension JSON que posteriormennte transformaremos en nuestro ETL a un dataframe que limpiaremos segun lo que necesitemos y formatos de datos que necesitaremos para poder trabajarlos en nuestro analisis. Al tener nuestros datos terminados los pasaremos a nuestro EDA donde analizaremos los datos mediante graficos y veremos que conclusiones podemos sacar de ellos, y por ultimo, pasaremos a nuestro analisis de datos donde veremos que conclusiones podemos sacar de los datos y que recomendaciones podemos dar a la empresa que nos contrato
+y los visualizaremos mas claramente en un dashboard de Power BI
+
+## **KPI-**
+Entre los datos que analizamos pudimos encontrar los siguientes KPIs:
+- **Market Cap:** Es el valor total de las criptomonedas en el mercado
+- **Ethereum market cap:** Seleccionamos ethereum como la mejor para invertir y realizar transacciones
+- **Volumen de :** Seleccionamos bitcoin como la mejor para invertir y realizar transacciones
