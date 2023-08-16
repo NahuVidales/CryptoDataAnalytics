@@ -72,4 +72,4 @@ y los visualizaremos mas claramente en un dashboard de Power BI
 Entre los datos que analizamos pudimos encontrar los siguientes KPIs:
 - **Market Cap:** Es el valor total de las criptomonedas en el mercado
 - **Ethereum market cap:** Seleccionamos ethereum como la mejor para invertir y realizar transacciones
-- **Volumen de :** Seleccionamos bitcoin como la mejor para invertir y realizar transacciones
+- **Exchange:** Seguridad del Exchange y liquidez
