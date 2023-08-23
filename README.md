@@ -71,5 +71,6 @@ y los visualizaremos mas claramente en un dashboard de Power BI
 ## **KPI-**
 Entre los datos que analizamos pudimos encontrar los siguientes KPIs:
 - **Market Cap:** Es el valor total de las criptomonedas en el mercado
-- **Ethereum market cap:** Seleccionamos ethereum como la mejor para invertir y realizar transacciones
-- **Exchange:** Seguridad del Exchange y liquidez
+- **Momento de compra:** Seleccionamos una de nuestras 10 cryptos y analizamos su comportamiento durante el ultimo mes para ver si es un buen momento para comprar o no
+- **ROI:** Seleccionamos una de nuestras 10 cryptos y elegimos un periodo de tiempo para ver si fue rentable invertir o estamos teniendo perdidas
+- **Confianza del exchange:** Verificaremos que tanto confia el mercado en el exchange que estamos analizando para realizar la compra de nuestras criptos, por lo que haremos una metrica entre el trust_score y el volumen en 24 horas
