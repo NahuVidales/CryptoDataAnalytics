@@ -1,17 +1,4 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
 
-<h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b>
-</h1>
- 
-# <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
-
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
-<p align='center'>
-<img src = 'https://www.clarin.com/img/2023/06/14/WJlAYJhAg_360x240__1.jpg' height = 200>
-<p>
 
 ## **Descripción del problema -contexto y rol a desarrollar-**
 
